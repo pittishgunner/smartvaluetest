@@ -1,0 +1,7 @@
+composer.phar
+/vendor/
+/.vagrant/
+access.log
+error.log
+composer.lock
+/.idea/
